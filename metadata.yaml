@@ -1,0 +1,22 @@
+_repo: The-Shakespeare-Garden_61325
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Singleton, Esther
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '7412'
+    url: http://www.gutenberg.org/2009/agents/7412
+description: ''
+gutenberg_issued: '2020-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61325'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Shakespeare Garden
+url: http://www.gutenberg.org/ebooks/61325
